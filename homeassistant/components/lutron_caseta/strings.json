@@ -18,7 +18,7 @@
       },
       "link": {
         "title": "Pair with the bridge",
-        "description": "To pair with {name} ({host}), after submitting this form, press the black button on the back of the bridge."
+        "description": "To pair with {name} ({host}), after submitting this form, press the black button on the back of the bridge.  For some bridges (such as the RR-PROC3) this button is on the front of the bridge."
       }
     },
     "error": {
